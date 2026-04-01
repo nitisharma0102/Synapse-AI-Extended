@@ -55,7 +55,7 @@ Synapse automates the entire learning workflow:
 ## 📊 Performance
 - ⏱️ ~50% reduction in study time  
 - 🎯 70–85% accuracy  
-- ⚡ Processes a 10-min lecture in ~5 minutes  
+- ⚡ Processes a 10-min lecture in ~2 minutes  
 
 ---
 
