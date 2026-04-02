@@ -70,3 +70,5 @@ Synapse automates the entire learning workflow:
 ## 🙌 Acknowledgments
 This project leverages technologies from Hugging Face, OpenAI Whisper, LangChain, and Gradio.
 
+This project is based on Synapse-AI (collaborative work),
+extended and improved with additional features.
